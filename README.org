@@ -5,3 +5,7 @@ I'm a programmer and self-proclaimed big boy.
 I like C, Emacs, and creating Desmos things.
 
 I also like biking, swimming, and Glass Animals.
+
+** Links:
+
+[[https://github.com/SnootierMoon][Github]]
