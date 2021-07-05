@@ -1,14 +1,16 @@
-* ayo it's ya boi snoot in da house
+* Hello!
 
-I'm a programmer and self-proclaimed big boy.
+I'm a student programmer and I like to code in Rust, C, C++, and Java (my favorite being Rust, of course).
 
-I like C, Emacs, and creating Desmos things.
+I like Rust, Emacs, and creating Desmos things.
 
 I also like biking, swimming, and Glass Animals.
 
 ** Links:
 
 [[https://github.com/SnootierMoon][Epic Github]]
+
+[[https://github.com/SnootierMoon/ChemChat][Cool Project]]
 
 [[https://snootiermoon.github.io/][Epic Website]]
 
