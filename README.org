@@ -1,6 +1,6 @@
 * Hello!
 
-I'm a student programmer and I like to code in Rust, C, C++, and Java (my favorite language being Rust, of course).
+I'm a student programmer and I like to code in Rust, C, C++, and Java (my favorite language is Rust, of course).
 
 I like Rust, Emacs, and creating Desmos things.
 
