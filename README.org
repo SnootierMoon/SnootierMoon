@@ -14,3 +14,6 @@ I also like biking, swimming, and Glass Animals.
 
 [[https://snootiermoon.github.io/][Epic Website]]
 
+I made some cool stuff in Desmos:
+
+[[https://www.desmos.com/calculator/2uqzsmtl7i][Connect 4]] (TODO: add AI)
