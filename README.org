@@ -18,4 +18,4 @@ I made some cool stuff in Desmos:
 
 [[https://www.desmos.com/calculator/2uqzsmtl7i][Connect 4]] (TODO: add AI)
 
-[[https://www.desmos.com/calculator/7xoq7w123q][Funny Desmos]]
+[[https://www.desmos.com/calculator/dfnv05ktag][Funny Desmos]]
