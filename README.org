@@ -1,10 +1,8 @@
 * Hello!
 
-I'm a student programmer and I like to code in Rust, C, C++, and Java (my favorite language is Rust, of course).
+I'm a student programmer and I like to code in Rust, C, C++, and Java.
 
-I like Rust, Emacs, and creating Desmos things.
-
-I also like biking, swimming, and Glass Animals.
+I also like creating Desmos things.
 
 ** Links:
 
