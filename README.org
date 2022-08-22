@@ -1,6 +1,8 @@
 * Hello!
 
-I'm a student programmer and I like to code in Rust, C, C++, and Java.
+I'm a Computer Science student at the University of Maryland and I like to code in Rust, Zig, Python, C, and Java (in order of preference).
+
+Proud Rustacean 🦀 and Ziguana 🦎.
 
 I also like creating Desmos things.
 
