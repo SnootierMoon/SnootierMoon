@@ -16,4 +16,4 @@ I made some cool stuff in Desmos:
 
 [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]]
 
-[[https://www.desmos.com/calculator/dfnv05ktag][Funny Desmos]]
+[[https://www.desmos.com/calculator/paash3mvcv][Funny Desmos]]
