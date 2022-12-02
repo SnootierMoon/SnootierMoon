@@ -16,6 +16,9 @@ I also like creating Desmos things.
 
 I made some cool stuff in Desmos:
 
-[[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]]
+[[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] - connect 4 game in desmos
 
-[[https://www.desmos.com/calculator/paash3mvcv][Funny Desmos]]
+[[https://www.desmos.com/calculator/3xvr293gvb][Rocketship Raymarcher]] - raymarching 3d model visualiser in desmos
+
+[[https://www.desmos.com/calculator/paash3mvcv][Funny Desmos]] - dumb little things
+
