@@ -1,24 +1,20 @@
 * Hello!
 
-I'm a Computer Science student at the University of Maryland and I like to code in Rust, Zig, Python, C, and Java (in order of preference).
+I'm a Computer Science student at the University of Maryland and I like to code in Zig, Rust, Python, C, and Java.
 
 Proud Rustacean 🦀 and Ziguana 🦎.
 
-I also like creating Desmos things.
-
 ** Links:
 
-[[https://github.com/SnootierMoon][Epic Github]]
+[[https://github.com/SnootierMoon][Github]]
 
-[[https://github.com/SnootierMoon/ChemChat][Cool Project]]
-
-[[https://snootiermoon.github.io/][Epic Website]]
-
-I made some cool stuff in Desmos:
+I like to make some cool CS/Math projects in Desmos too:
 
 [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] - connect 4 game in desmos
 
 [[https://www.desmos.com/calculator/3xvr293gvb][Rocketship Raymarcher]] - raymarching 3d model visualiser in desmos
 
-[[https://www.desmos.com/calculator/paash3mvcv][Funny Desmos]] - dumb little things
+[[https://www.desmos.com/calculator/qbog8sv7is][Acceleration vector field simulartor]]
+
+[[https://www.desmos.com/calculator/3gmlzvtfyt][Reverse Distortion Transformation]]
 
