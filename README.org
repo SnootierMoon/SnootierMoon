@@ -6,10 +6,6 @@ I love to learn new programming languages. Currently, I love Zig, Rust, Python, 
 
 Proud Rustacean 🦀 and Ziguana 🦎.
 
-** Links:
-
-[[https://github.com/SnootierMoon][Github]]
-
 I like to make some cool CS/Math projects in Desmos too:
 
 [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] - connect 4 game in desmos
