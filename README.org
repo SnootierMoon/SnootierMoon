@@ -2,14 +2,14 @@
 
 I'm a Computer Science student at the University of Maryland.
 
-* I love to learn new programming languages. Currently, I love Zig, Rust, Python, C, and Java.
++ I love to learn new programming languages. Currently, I love Zig, Rust, Python, C, and Java.
 
-* Proud Rustacean 🦀 and Ziguana 🦎.
++ Proud Rustacean 🦀 and Ziguana 🦎.
 
 I like to make some cool CS/Math projects in Desmos too:
 
-* [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] - connect 4 game in desmos
++ [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] - connect 4 game in desmos
 
-* [[https://www.desmos.com/calculator/qbog8sv7is][Acceleration vector field simulartor]]
++ [[https://www.desmos.com/calculator/qbog8sv7is][Acceleration vector field simulartor]]
 
-* [[https://www.desmos.com/calculator/3gmlzvtfyt][Reverse Distortion Transformation]]
++ [[https://www.desmos.com/calculator/3gmlzvtfyt][Reverse Distortion Transformation]]
