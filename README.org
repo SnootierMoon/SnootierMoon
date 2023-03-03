@@ -2,8 +2,8 @@
 
 I'm a Computer Science student at the University of Maryland.
 
-+ I love to learn new programming languages. Currently, I'm enjoying playing
-  around with Zig, Rust, Python, C, and Java.
++ I love to learn new programming languages. Currently, my favorite languages
+  are Zig, Rust, C, and Python.
 
 + Proud Rustacean 🦀 and Ziguana 🦎.
 
