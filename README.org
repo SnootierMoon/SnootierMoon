@@ -1,13 +1,17 @@
 * Hello!
 
-I'm a Computer Science student at the University of Maryland.
+I'm a Computer Science and Mathematics student at the University of Maryland.
+
+** About Me
 
 + I love to learn new programming languages. Currently, my favorite languages
-  are Zig, Rust, C, and Python.
+  are Zig, Rust, Python, and C.
 
 + Proud Rustacean 🦀 and Ziguana 🦎.
 
-I like to make some cool CS/Math projects in Desmos too:
++ My favorite topics in Mathematics are Abstract Algebra, Logic, and Type Thoery.
+
+** Cool Desmos Projects
 
 + [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] 
   - connect 4 game in desmos
